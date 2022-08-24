@@ -2,7 +2,7 @@ module.exports = {
     token: "TOKEN",
     prefix: "+",
     activity: {
-        name: "مالو هاظ",
+        name: "Marquis is good :>",
         type: 1
     }
 }
