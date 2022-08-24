@@ -1,7 +1,7 @@
 {
-  "name": "avatars-new",
+  "name": "djs-v14-handler",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple command handler project that helps you to start amazing projects ;>",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
